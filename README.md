@@ -15,9 +15,9 @@ MM/DD/YY, HH:MM - Author: Message
   
 Exemplo com k = 3.  
   
-|               Título               |    Cluster    |
-| ---------------------------------- | ------------- |
-| Conversa do WhatsApp com Escritóio |       0       |
-| Conversa do WhatsApp com João      |       1       |
-| Conversa do WhatsApp com Maria     |       1       |
-| Conversa do WhatsApp com Pizzaria  |       2       |
+|               Título                |    Cluster   |
+|-------------------------------------|--------------|
+| Conversa do WhatsApp com Escritório |       0      |
+| Conversa do WhatsApp com João       |       1      |
+| Conversa do WhatsApp com Maria      |       1      |
+| Conversa do WhatsApp com Pizzaria   |       2      |
